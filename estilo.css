@@ -1,0 +1,81 @@
+* {
+	
+	background-color: #FEE7FB;
+}
+
+body {
+	margin-left: 20px;
+	margin-right: 20px;
+	border-left: 10px solid black;
+	border-right: 10px solid black;
+}
+
+h1 {
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+ p {
+ 	margin-left: 30px;
+ 	margin-top: -10px;	
+ 	font-size: 30px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.cabecera {
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 140px;
+	height: 120px;
+}
+
+img {
+	border-radius: 5px;
+	margin-left: 13rem;
+	width: 250px;
+	height: 320px;
+}
+
+.imagen1 {
+	border: 4px solid black;
+	border-radius: 5px;
+	margin-left: 13rem;
+	width: 250px;
+	height: 320px;
+
+}
+.otre {
+	border: 4px solid black;
+	margin-top: 6rem;	
+	margin-left: 27rem;
+	width: 250px;
+	height: 300px;
+}
+
+.make {
+	border: 3px solid black;
+	margin-left: 0rem;
+	width: 600px;
+	height: 350px;
+}
+
+button {
+	border: 2px solid #BD93B7;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 80px;
+	padding-left: 80px;
+	margin-top: 50px;
+	font-weight: bold;
+	margin-left: 25rem;
+	font-size: 30px;
+	font-family: 'Parisienne', cursive;
+}
+
+button:hover {
+	background-color: #DAB9D5;
+}
+
+hr {
+	color: red;
+	width: 70%;
+}

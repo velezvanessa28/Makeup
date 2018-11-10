@@ -1,0 +1,271 @@
+* {
+	background-color: #FEE7FB;
+}
+
+li {
+	margin-top: 40px;
+	margin-left:-40px;
+	padding-bottom: 50px;
+	list-style: none;
+}
+
+a {
+	font-family: 'Acme', sans-serif;
+	padding: 20px;
+	background-color: #202020;
+	color: #fff;	
+	text-decoration: none;
+	border-radius: 50px;
+}
+
+a:hover {
+	font-family: 'Acme', sans-serif;
+	color: #F21FD7;
+	background-color:#434343;
+}
+
+.parahacer {
+	font-weight: bold;
+	border: 6px solid;
+	border-radius: 7px;
+	font-family: 'Acme', sans-serif;
+}
+
+.collar {
+	border: 4px solid black;
+	margin-top: 40px;
+	margin-left: 120px;
+	width: 200px;
+	height: 250px;
+}
+
+.collar2, .collar3 {
+	border: 4px solid black;
+	margin-top: 40px;
+	margin-left: 180px;
+	width: 200px;
+	height: 250px;
+
+}
+
+.collar4 {
+	border: 4px solid black;
+	margin-top: 120px;
+	margin-left: 300px;
+	width: 200px;
+	height: 250px;
+
+}
+
+.collar5 {
+	border: 4px solid black;
+	margin-top: 40px;
+	margin-left: 200px;
+	width: 200px;
+	height: 250px;
+
+}
+
+.subcollar {
+	line-height: 24px;
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 120px;
+	margin-top: 10px;
+}
+
+.subcollar2 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 105px;
+	margin-top: 20px;
+}
+
+.subcollar3 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 200px;
+	margin-top: 20px;
+}
+
+.subcollar6 {
+	line-height: 24px;
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 240px;
+}
+
+.subcollar7 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 340px;
+	margin-top: 20px;
+}
+
+.subcollar8 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 370px;
+	margin-top: 20px;
+}
+
+.subcollar9 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 300px;
+	margin-top: 20px;
+}
+
+.subcollar10 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 280px;
+	margin-top: 20px;
+}
+
+.subcollar11 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 300px;
+	margin-top: 20px;
+}
+
+.subcollar12 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 390px;
+	margin-top: 20px;
+}
+
+.parahacer {
+	font-weight: bold;
+	border: 6px solid;
+	border-radius: 7px;
+	font-family: 'Acme', sans-serif;
+}
+
+.areta {
+	border: 4px solid black;
+	margin-top: 40px;
+	margin-left: 120px;
+	width: 200px;
+	height: 250px;
+}
+
+.areta2, .areta3 {
+	border: 4px solid black;
+	margin-top: 40px;
+	margin-left: 180px;
+	width: 200px;
+	height: 250px;
+
+}
+
+.areta4 {
+	border: 4px solid black;
+	margin-top: 120px;
+	margin-left: 300px;
+	width: 200px;
+	height: 250px;
+
+}
+
+.areta5 {
+	border: 4px solid black;
+	margin-top: 40px;
+	margin-left: 200px;
+	width: 200px;
+	height: 250px;
+
+}
+
+.subareta {
+	line-height: 24px;
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 120px;
+	margin-top: 10px;
+}
+
+.subareta2 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 280px;
+	margin-top: 20px;
+}
+
+.subareta3 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 300px;
+	margin-top: 20px;
+}
+
+.subareta6 {
+	line-height: 24px;
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 170px;
+}
+
+.subareta7 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 340px;
+	margin-top: 20px;
+}
+
+.subareta8 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 370px;
+	margin-top: 20px;
+}
+
+.subareta9 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 300px;
+	margin-top: 20px;
+}
+
+.subareta10 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 280px;
+	margin-top: 20px;
+}
+
+.subareta11 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 300px;
+	margin-top: 20px;
+}
+
+.subareta12 {
+	display: inline-block;
+	color: #000;
+	font-weight: bold;
+	margin-left: 410px;
+	margin-top: 20px;
+}
